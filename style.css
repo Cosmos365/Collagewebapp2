@@ -1,0 +1,9 @@
+.copyright_footer {
+    position: fixed;
+    color: #F7F7F7;
+    bottom: 0;
+    width: 100%;
+    background-color: #924E7D;
+    line-height: 3;
+    text-align: center;
+}
